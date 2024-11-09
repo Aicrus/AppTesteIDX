@@ -1,0 +1,276 @@
+{
+  "project_info": {
+    "project_number": "918376902606",
+    "project_id": "aulasaicrusacademy",
+    "storage_bucket": "aulasaicrusacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:bcd18328072deffc63859f",
+        "android_client_info": {
+          "package_name": "com.academypro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:766c0678d2823c9463859f",
+        "android_client_info": {
+          "package_name": "com.hadronlink.hadronlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:b46e2561fd193eaf63859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.apptesteidx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:d3f7b318968b10b563859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.betatest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:80f1a31569930c2563859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.imagemoffline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:21e7899669b26b5e63859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.kanban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:786c296db32e1b9963859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.marcusimagem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:b99ba5bc7d60f9e263859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.netflix20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:c7ca3c1fc7ba362e63859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.otimizarprojeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:c7659a45ed6b626a63859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.servicopro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:fc5d0d7f2dcb344c63859f",
+        "android_client_info": {
+          "package_name": "com.mycompany.uploaddeimagem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:773f6dc56d31eb3d63859f",
+        "android_client_info": {
+          "package_name": "com.whatsapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:307a873d816a817863859f",
+        "android_client_info": {
+          "package_name": "io.flutterflow.mapstracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918376902606:android:e9b4a60a778edf3763859f",
+        "android_client_info": {
+          "package_name": "io.flutterflow.ridedriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Mt80yuctFqrvtGCcjZ7jqKmAfbJZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

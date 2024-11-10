@@ -54,7 +54,24 @@
 	<true/>
 
 
-
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>.</string>
+	<key>NSFaceIDUsageDescription</key>
+    <string>.</string>
+	<key>NSCalendarsUsageDescription</key>
+    <string>.</string>
+	<key>NSCameraUsageDescription</key>
+    <string>.</string>
+	<key>NSContactsUsageDescription</key>
+    <string>.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>.</string>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>.</string>
+	<key>PermissionGroupNotification</key>
+    <string>.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>.</string>
 
 
 	<key>UILaunchStoryboardName</key>
